@@ -1,3 +1,3 @@
 # Demo 
 
-learning 
+learning 100
